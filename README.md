@@ -23,7 +23,7 @@ Feel free to contribute to the project, just make sure to get the final pull req
 2. Create your Branch
 3. Commit your Changes
 4. Push to the Branch
-5. Open a Pull Request to merge with `main`
+5. Open a Pull Request to merge with `master`
 
 ## License
 
